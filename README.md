@@ -1,7 +1,7 @@
 # AgentOS
 
 <p align="center">
-    <img src="./screenshots/agentos.png">
+    <img src="./screenshots/agentos.png" width="40%">
 </p>
 <h1 align="center">AgentOS: Empowering Your AI Assistant</h1>
 
